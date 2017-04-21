@@ -1,0 +1,38 @@
+<?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#010101">
+	<!ENTITY fill_color  "#FFFFFF">
+]><!-- Creator: CorelDRAW --><svg height="50px" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 3.78472 3.78472" width="50px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs style="">
+  <style style="" type="text/css">
+   <![CDATA[
+    .str0 {stroke:white;stroke-width:0.0481685}
+    .str1 {stroke:#010101;stroke-width:0.192674}
+    .str3 {stroke:#010101;stroke-width:0.192674}
+    .str2 {stroke:#010101;stroke-width:0.192674;stroke-linecap:round}
+    .fil0 {fill:#FFFFFF}
+    .fil2 {fill:#FFFFFF}
+    .fil1 {fill:#FFFFFF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1" style="">
+  <metadata id="CorelCorpID_0Corel-Layer" style=""/>
+
+  <rect stroke="&stroke_color;" fill="&fill_color;" 
+class="fill0 str0" stroke-width="0.192"
+height="2.20865" rx="0.196661" 
+ry="0.196661" style="" 
+width="2.91" x="0.653715" y="0.644322"/>
+
+  <rect stroke="&stroke_color;" fill="&fill_color;" 
+stroke-width="0.192" 
+height="2.20865" rx="0.196661" ry="0.196661" style="" width="2.91966" x="0.145106" y="1.09815"/>
+  <g id="_60706736" style="">
+   <g style="">
+    <line class="fil0 str2" id="_60781952" style="" x1="1.31819" x2="1.89165" y1="2.11687" y2="2.69034"/>
+    <line class="fil0 str2" id="_60615656" style="" x1="1.89168" x2="1.31822" y1="2.11687" y2="2.69034"/>
+   </g>
+   <circle class="fil2 str3" cx="1.60493" cy="1.82808" id="_60601288" r="0.113458" style=""/>
+  </g>
+ </g>
+</svg>

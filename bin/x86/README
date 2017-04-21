@@ -1,0 +1,3 @@
+The package for this x11vnc binary was broken due to dependency on Xvfb.
+The package Xvfb is not available, then I removed that dependency and recompiled the rpm.
+The spec file is here for reference.
